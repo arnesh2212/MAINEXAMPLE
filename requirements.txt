@@ -1,6 +1,7 @@
 streamlit
 torchaudio==2.2.1
 torch==2.2.1
+PySoundFile
 transformers==4.40.0
 tqdm
 scikit-learn
