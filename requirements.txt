@@ -1,7 +1,6 @@
 streamlit
-torch==2.2.2
 torchaudio==2.2.2
-pyaudio
+torch==2.2.2
 transformers==4.40.0
 tqdm
 scikit-learn
