@@ -1,4 +1,5 @@
 streamlit
+torch
 transformers
 tqdm
 scikit-learn
@@ -7,4 +8,4 @@ matplotlib
 tensorflow
 torchaudio
 pillow
-torch
+
