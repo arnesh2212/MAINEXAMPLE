@@ -1,0 +1,9 @@
+streamlit
+transformers
+tqdm
+torch
+scikit-learn
+numpy
+librosa
+matplotlib
+tensorflow
