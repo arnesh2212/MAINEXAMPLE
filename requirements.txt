@@ -7,3 +7,4 @@ matplotlib
 tensorflow
 torchaudio
 pillow
+torch
