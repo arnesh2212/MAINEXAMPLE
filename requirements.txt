@@ -1,12 +1,13 @@
 streamlit
+torch==2.2.2
+torchaudio==2.2.2
+pyaudio
 transformers==4.40.0
 tqdm
 scikit-learn
 numpy
 matplotlib
 tensorflow
-torch==2.2.2
-torchaudio==2.2.2
 pillow
 tensorflow==2.16.1
 
