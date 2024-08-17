@@ -8,3 +8,4 @@ librosa
 matplotlib
 tensorflow
 torchaudio
+pillow
